@@ -1,0 +1,8 @@
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.pdb
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.PreSet.resources
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.exe
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.pdb

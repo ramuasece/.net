@@ -1,0 +1,6 @@
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.PreSet.resources
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.exe
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\Release\PreviewDemo.exe
