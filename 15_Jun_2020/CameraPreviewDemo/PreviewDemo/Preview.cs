@@ -2104,7 +2104,7 @@ namespace PreviewDemo
 
                 CHCNetSDK.NET_DVR_DEVICEINFO_V30 DeviceInfo3 = new CHCNetSDK.NET_DVR_DEVICEINFO_V30();
 
-                m_lUserID2 = CHCNetSDK.NET_DVR_Login_V30(DVRIPAddress3, DVRPortNumber3, DVRUserName3, DVRPassword3, ref DeviceInfo3);
+                m_lUserID3 = CHCNetSDK.NET_DVR_Login_V30(DVRIPAddress3, DVRPortNumber3, DVRUserName3, DVRPassword3, ref DeviceInfo3);
                 if (m_lUserID3 < 0)
                 {
                     iLastErr3 = CHCNetSDK.NET_DVR_GetLastError();
@@ -2158,7 +2158,7 @@ namespace PreviewDemo
 
                 CHCNetSDK.NET_DVR_DEVICEINFO_V30 DeviceInfo4 = new CHCNetSDK.NET_DVR_DEVICEINFO_V30();
 
-                m_lUserID2 = CHCNetSDK.NET_DVR_Login_V30(DVRIPAddress4, DVRPortNumber4, DVRUserName4, DVRPassword4, ref DeviceInfo4);
+                m_lUserID4 = CHCNetSDK.NET_DVR_Login_V30(DVRIPAddress4, DVRPortNumber4, DVRUserName4, DVRPassword4, ref DeviceInfo4);
                 if (m_lUserID4 < 0)
                 {
                     iLastErr4 = CHCNetSDK.NET_DVR_GetLastError();
