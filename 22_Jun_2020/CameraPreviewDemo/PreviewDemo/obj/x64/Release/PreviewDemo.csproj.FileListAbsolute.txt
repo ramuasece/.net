@@ -1,0 +1,57 @@
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\bin\PreviewDemo.exe
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.PreSet.resources
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Preview.resources
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.GenerateResource.Cache
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.exe
+D:\SDK_chinese\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.exe
+D:\SDK_chinese\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\bin\PreviewDemo.exe
+D:\SDK_chinese\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csprojResolveAssemblyReference.cache
+D:\SDK_chinese\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.PreSet.resources
+D:\SDK_chinese\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Preview.resources
+D:\SDK_chinese\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\EN-HCNetSDK(Windows64)V6.0.2.35_build20190411\C# demo\1-Preview-PreviewDemo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.GenerateResource.Cache
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\bin\MetroFramework.Design.dll
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\bin\MetroFramework.dll
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\bin\MetroFramework.Fonts.dll
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csprojAssemblyReference.cache
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.PreSet.resources
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Preview.resources
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.GenerateResource.cache
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.CopyComplete
+C:\Users\Ramu\Downloads\Others\EN-HCNetSDKV6.1.4.42_build20200527_win64\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.exe
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\bin\MetroFramework.Design.dll
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\bin\MetroFramework.dll
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\bin\MetroFramework.Fonts.dll
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csprojAssemblyReference.cache
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.PreSet.resources
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Preview.resources
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.GenerateResource.cache
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.CopyComplete
+C:\Users\Ramu\source\repos\1-Preview-PreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.exe
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\MetroFramework.Design.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\MetroFramework.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\MetroFramework.Fonts.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csprojAssemblyReference.cache
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.PreSet.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Preview.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.GenerateResource.cache
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.csproj.CopyComplete
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.exe
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Properties.Resources.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.DirectShow.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\zxing.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.DirectShow.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\zxing.pdb
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\zxing.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\x64\Release\PreviewDemo.Configuration.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\PreviewDemo.exe.config

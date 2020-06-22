@@ -1,0 +1,27 @@
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.PreSet.resources
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.Cache
+C:\Users\lizhen13\Desktop\20190201-C# demo翻译\1-实时预览示例代码一\PreviewDemo\obj\Release\PreviewDemo.exe
+G:\EN-HCNetSDK(Windows64)V5.3.6.30_build20180816\C# demo\1-Preview-PreviewDemo\PreviewDemo\obj\Release\PreviewDemo.exe
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.DirectShow.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\MetroFramework.Design.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\MetroFramework.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\MetroFramework.Fonts.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\zxing.dll
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\AForge.Video.DirectShow.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\zxing.pdb
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\bin\zxing.xml
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.csprojAssemblyReference.cache
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.PreSet.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.Preview.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.Properties.Resources.resources
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.csproj.GenerateResource.cache
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.csproj.CopyComplete
+C:\Users\Ramu\source\repos\CameraPreviewDemo\PreviewDemo\obj\Release\PreviewDemo.exe
